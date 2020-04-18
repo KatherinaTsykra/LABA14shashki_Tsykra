@@ -1,0 +1,14 @@
+C:\Users\Катя\Desktop\Laba14_Tsykra\Laba14_Tsykra\obj\Debug\MainWindow.g.cs
+C:\Users\Катя\Desktop\Laba14_Tsykra\Laba14_Tsykra\obj\Debug\App.g.cs
+C:\Users\Катя\Desktop\Laba14_Tsykra\Laba14_Tsykra\obj\Debug\Laba14_Tsykra_MarkupCompile.cache
+C:\Users\Катя\Desktop\Laba14_Tsykra\Laba14_Tsykra\obj\Debug\Laba14_Tsykra_MarkupCompile.lref
+C:\Users\Катя\Desktop\Laba14_Tsykra\Laba14_Tsykra\bin\Debug\Laba14_Tsykra.exe.config
+C:\Users\Катя\Desktop\Laba14_Tsykra\Laba14_Tsykra\bin\Debug\Laba14_Tsykra.exe
+C:\Users\Катя\Desktop\Laba14_Tsykra\Laba14_Tsykra\bin\Debug\Laba14_Tsykra.pdb
+C:\Users\Катя\Desktop\Laba14_Tsykra\Laba14_Tsykra\obj\Debug\MainWindow.baml
+C:\Users\Катя\Desktop\Laba14_Tsykra\Laba14_Tsykra\obj\Debug\Laba14_Tsykra.g.resources
+C:\Users\Катя\Desktop\Laba14_Tsykra\Laba14_Tsykra\obj\Debug\Laba14_Tsykra.Properties.Resources.resources
+C:\Users\Катя\Desktop\Laba14_Tsykra\Laba14_Tsykra\obj\Debug\Laba14_Tsykra.csproj.GenerateResource.cache
+C:\Users\Катя\Desktop\Laba14_Tsykra\Laba14_Tsykra\obj\Debug\Laba14_Tsykra.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\Laba14_Tsykra\Laba14_Tsykra\obj\Debug\Laba14_Tsykra.exe
+C:\Users\Катя\Desktop\Laba14_Tsykra\Laba14_Tsykra\obj\Debug\Laba14_Tsykra.pdb

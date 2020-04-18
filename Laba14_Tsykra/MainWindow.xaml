@@ -1,0 +1,16 @@
+﻿<Window x:Class="Laba14_Tsykra.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Laba14_Tsykra"
+        mc:Ignorable="d"
+        Background="Azure"
+        Title="Проект шашки, Цыкра Е.С." Height="460.273" Width="585.432" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Canvas x:Name="gPole" Background="AliceBlue" HorizontalAlignment="Left" Height="400" Margin="10,10,0,0" VerticalAlignment="Top" Width="400" MouseUp="cmClick"/>
+        <Button x:Name="button" Content="Выход" HorizontalAlignment="Left" Margin="415,388,0,0" VerticalAlignment="Top" Width="147" Click="cmClose"/>
+        <Button x:Name="button2" Content="Автоматическая игра" HorizontalAlignment="Left" Margin="415,10,0,0" VerticalAlignment="Top" Width="147" Click="cmAutoRun"/>
+
+    </Grid>
+</Window>
